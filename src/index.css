@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #e9f1fa;
+  padding-top: 1rem;
+  font-family: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+}
